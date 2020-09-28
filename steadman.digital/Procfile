@@ -1,1 +1,1 @@
-web: python steadman_digital.py
+worker: python steadman_digital.py
