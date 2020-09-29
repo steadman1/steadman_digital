@@ -14,4 +14,4 @@ def class_trans():
     return render_template("class-transcript.html")
 
 if __name__ == "__main__":
-    app.run(threaded=True, port='0.0.0.0')
+    app.run(host='0.0.0.0')
