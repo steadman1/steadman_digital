@@ -1,1 +1,1 @@
-web: python steadman_digital.py
+web: gunicorn steadman_digital:app
