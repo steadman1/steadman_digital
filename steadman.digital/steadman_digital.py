@@ -14,4 +14,4 @@ def class_trans():
     return render_template("class-transcript.html")
 
 if __name__ == "__main__":
-    app.run(host='steadman-digital.herokuapp.com')
+    app.run(host='localhost')
